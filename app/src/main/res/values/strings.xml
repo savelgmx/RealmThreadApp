@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">RealmThreadApp</string>
+    <string name="title_section1">1</string>
+    <string name="title_section2">2</string>
+    <string name="title_section3">3</string>
+    <string name="title_section4">4</string>
 </resources>

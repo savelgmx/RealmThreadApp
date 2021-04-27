@@ -3,6 +3,9 @@ package com.example.realmthreadapp;
 
 import android.app.Application;
 
+import io.realm.Realm;
+import io.realm.RealmConfiguration;
+
 //попытка разобраться с куфдь еркувы
 //перенос приложения из https://github.com/realm/realm-java/tree/master/examples/threadExample/src/main/java/io/realm/examples/threads
 
