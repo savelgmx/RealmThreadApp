@@ -27,7 +27,7 @@ public class ThreadExampleActivity extends AppCompatActivity implements android.
         actionBar.setNavigationMode(android.support.v7.app.ActionBar.NAVIGATION_MODE_TABS);
 
         SectionsPagerAdapter pageAdapter = new SectionsPagerAdapter(getSupportFragmentManager());
-        viewPager = (ViewPager) findViewById(R.id.pager);
+      //  viewPager = (ViewPager) findViewById(R.id.pager);
         viewPager.setAdapter(pageAdapter);
 
         viewPager.setOnPageChangeListener(new ViewPager.SimpleOnPageChangeListener() {

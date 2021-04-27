@@ -1,6 +1,7 @@
 package com.example.realmthreadapp;
 
-import androidx.fragment.app.Fragment;
+
+import android.support.v4.app.Fragment;
 
 public class AsyncTaskFragment extends Fragment {
 }
