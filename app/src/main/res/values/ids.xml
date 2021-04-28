@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-
-    <item name="action_add_dot" type="id">action_add_dot</item>
-    <item name="action_clear" type="id">action_add_dot</item>
-</resources>
