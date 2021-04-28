@@ -72,7 +72,7 @@ public class ThreadExampleActivity extends AppCompatActivity implements android.
                 case 0: return new ThreadFragment();
                 case 1: return new AsyncTaskFragment();
                 case 2: return new AsyncQueryFragment();
-               // case 3: return new PassingObjectsFragment();
+                case 3: return new PassingObjectsFragment();
                 default: return null;
             }
         }
