@@ -4,4 +4,6 @@
     <string name="title_section2">2</string>
     <string name="title_section3">3</string>
     <string name="title_section4">4</string>
+    <string name="action_add_dot">"action Add dot "</string>
+    <string name="action_clear">action_clear</string>
 </resources>
